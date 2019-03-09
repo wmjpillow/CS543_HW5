@@ -1,1 +1,1 @@
-# CS543_HW5
+# CS543_ComputerGraphics_HW5
