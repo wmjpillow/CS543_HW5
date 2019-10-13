@@ -25,8 +25,8 @@ Key 'P': Display image with Ripple Transformation
 
 Key 'S': Display image with Spherical Transformation
 
-![ggplot2](HW5.gif)
+![GitHub Logo](HW5.gif)
 
 Key 'R': Load the Mandelbrot texture and display it
 
-![ggplot2](Capture.PNG)
+![GitHub Logo](Capture.PNG)
